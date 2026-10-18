@@ -2,10 +2,6 @@ package com.pavan.spring;
 
 import com.mongodb.client.MongoClient;
 import com.mongodb.client.MongoClients;
-import org.bson.Document;
-
-import java.util.ArrayList;
-import java.util.List;
 
 /**
  * Hello world!
